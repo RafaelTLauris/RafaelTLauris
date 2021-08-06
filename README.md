@@ -1,5 +1,9 @@
 ### Olá, Eu sou o Rafael Lauris 👋
  
+ -🎓 Me formando em Data Science
+ -🔭 Trabalhando atualmente como Desenvolvedor Web
+ -📚 Atualmente Estudando JavaScript e HTML5 & CSS3
+ 
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelTLauris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -18,6 +22,7 @@
  
 <div>
   <a href="https://www.linkedin.com/in/rafael-lauris-51b678201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rafael.teixlauris@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!--<a href="https://github.com/RafaelTLauris/Estudos-JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a> -->
  
   
