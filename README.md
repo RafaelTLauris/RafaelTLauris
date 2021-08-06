@@ -1,8 +1,8 @@
-### Olá, Eu sou o Rafael Lauris 👋
+## Olá, Eu sou o Rafael Lauris 👋
  
- -🎓 Me formando em Data Science
- -🔭 Trabalhando atualmente como Desenvolvedor Web
- -📚 Atualmente Estudando JavaScript e HTML5 & CSS3
+ -🎓 Me formando em Data Science <br>
+ -🔭 Trabalhando atualmente como Desenvolvedor Web <br>
+ -📚 Atualmente Estudando JavaScript e HTML5 & CSS3 <br>
  
  <div>
   <a href="https://github.com/rafaballerini">
