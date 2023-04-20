@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Rafael Lauris 👋
  
  -🎓 Me formando em Data Science <br>
- -📚 Atualmente Estudando JavaScript, Python e Dados <br>
+ -📚 Atualmente Estudando Python e Dados <br>
  
  <div>
   <a href="https://github.com/RafaelTLauris">
